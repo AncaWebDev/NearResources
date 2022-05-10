@@ -1,0 +1,18 @@
+/Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/deps/typenum-eba9811536b7659f.rmeta: /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/op.rs /Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/consts.rs
+
+/Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/deps/typenum-eba9811536b7659f.d: /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/op.rs /Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/consts.rs
+
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/Users/ancatoma/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/op.rs:
+/Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/ancatoma/Desktop/near/near-resources/contract/target/rls/debug/build/typenum-f652251080214f38/out/op.rs

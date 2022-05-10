@@ -1,0 +1,1 @@
+/Users/ancatoma/Desktop/near/near-res/contract/target/debug/libnear_resources.dylib: /Users/ancatoma/Desktop/near/near-res/contract/src/lib.rs /Users/ancatoma/Desktop/near/near-res/contract/src/models.rs /Users/ancatoma/Desktop/near/near-res/contract/src/utils.rs
