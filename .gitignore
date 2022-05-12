@@ -5,3 +5,5 @@ parcel-cache
 .DS_Store
 .vscode/
 .vscode
+node-modules
+node-modules/
